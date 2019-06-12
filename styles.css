@@ -1,0 +1,11 @@
+#main {
+    border: 1px black;
+    background: #b3dce8;
+    text-align: center;
+}
+
+#cards {
+    margin-top: 3em;
+    margin-left: 2em;
+    margin-right: 2em;
+}
